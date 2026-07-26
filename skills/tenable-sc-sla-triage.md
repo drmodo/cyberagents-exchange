@@ -16,6 +16,7 @@ integrations:
   - Tenable
 date_added: 2026-07-18
 contribution_agreement_date: 2026-07-20T20:53:32Z
+last_reviewed: 2026-07-26
 compatible_platforms:
   - Claude Code
 invocation: /tenable-sc-sla-triage
